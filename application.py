@@ -6,16 +6,14 @@ ALLOWED_EXTS = {'.csv'}
 
 app = Flask(__name__)
 
-
 # Database connectivity parameters
 host = '127.0.0.1'
-port = '5432'
 dbname = 'xVectorLabs_DB'
 user = 'postgres'
 password = 'Walker1510'
 
 # Creating PostGreSQL database object
-db_object = PostGreSQL(host, port, dbname, user, password)
+db_object = PostGreSQL(host, dbname, user, password)
 
 
 # # Create Own Data Base

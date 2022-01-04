@@ -4,17 +4,16 @@ import psycopg2
 
 
 class PostGreSQL:
-    def __init__(self, host, port, dbname, user, password):
+    def __init__(self, host, dbname, user, password):
         """
         This function sets the database parameters
         """
         try:
             self.host = host
-            self.port = port
             self.dbname = dbname
             self.user = user
             self.password = password
-            self.connection_string = "host=%s port=%s dbname=%s user=%s password=%s" % (self.host, self.port, self.dbname, self.user, self.password)
+            self.connection_string = "host=%s dbname=%s user=%s password=%s" % (self.host, self.dbname, self.user, self.password)
         except Exception as e:
             raise Exception(f"(__init__): Something went wrong on initiation process\n" + str(e))
     
