@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="{{ url_for('static',filename='css/style.css') }}" />
+    <title>Data Sets Page</title>
+</head>
+<body>
+    <header>
+        <div class="wrapper">    
+            <div class="logo">
+                <img src="https://media-exp1.licdn.com/dms/image/C510BAQGP893fbV10Lg/company-logo_200_200/0/1571897585127?e=2159024400&v=beta&t=enO5pQuNNjW4-d5RUhyO8PAhYgX73icteOp1p8g5YW0" alt="">
+            </div>
+            <ul class="nav-area">
+                <li><a href="/">                      Home</a></li>
+                <li><a class = "current" href="/data">Data</a></li>
+                <li><a href="/plot">                  Plot</a></li>
+            </ul>
+        </div>
+        <div class="stored_data">
+            <p> <strong> Data Sets </strong></p>
+            <br>
+            <table border="2px dotted">
+                {% for dataset in datasets %}
+                <tr>
+                    <td>{{ dataset[1] }}</td>
+                </tr>
+                {% endfor %}
+            </table>
+        </div>
+        <div class="data_upload">
+            
+        {% if error %}
+            <p style="color: red;">{{ error }}</p>
+        {% endif %}
+
+        {% if filename%}
+                <p style="color: #0000ff; font-weight: bold; font-size: 18px;">Your File: {{ filename }} has been uploaded.</p>
+        {% else %}
+            <form method="post" action="/dataset" enctype="multipart/form-data">
+                <table>
+                    <tr>
+                        <td class="text">
+                            <strong>Data Set: </strong>
+                            <input type="file" name="file" id="file" accept=".csv" required>
+                        </td>
+                        <td>
+                            <button type="submit" class="submit" name="submit">Upload</button>
+                        </td>
+                    </tr>
+                </table>
+            </form>
+            {% endif %}
+            <div class="message">
+                {% if message %}
+                    {{ message }}
+                {% endif %}
+            </div>
+        </div>
+    </header>
+  
+</body>
+</html>

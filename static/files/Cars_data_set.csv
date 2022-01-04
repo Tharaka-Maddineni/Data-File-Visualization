@@ -1,0 +1,61 @@
+Make,Model,Engine_Fuel_Type,Engine_HP,Engine_Cylinders,Transmission_Type,Driven_Wheels,Number_of_Doors,Vehicle_Size,Vehicle_Style,highway_MPG,city_mpg,Popularity,MSRP
+BMW,1 Series M,premium unleaded (required),335,6,MANUAL,rear wheel drive,2,Compact,Coupe,26,19,3916,46135
+BMW,1 Series,premium unleaded (required),300,6,MANUAL,rear wheel drive,2,Compact,Convertible,28,19,3916,40650
+BMW,1 Series,premium unleaded (required),300,6,MANUAL,rear wheel drive,2,Compact,Coupe,28,20,3916,36350
+BMW,1 Series,premium unleaded (required),230,6,MANUAL,rear wheel drive,2,Compact,Coupe,28,18,3916,29450
+BMW,1 Series,premium unleaded (required),230,6,MANUAL,rear wheel drive,2,Compact,Convertible,28,18,3916,34500
+BMW,1 Series,premium unleaded (required),230,6,MANUAL,rear wheel drive,2,Compact,Coupe,28,18,3916,31200
+BMW,1 Series,premium unleaded (required),300,6,MANUAL,rear wheel drive,2,Compact,Convertible,26,17,3916,44100
+BMW,1 Series,premium unleaded (required),300,6,MANUAL,rear wheel drive,2,Compact,Coupe,28,20,3916,39300
+BMW,1 Series,premium unleaded (required),230,6,MANUAL,rear wheel drive,2,Compact,Convertible,28,18,3916,36900
+BMW,1 Series,premium unleaded (required),230,6,MANUAL,rear wheel drive,2,Compact,Convertible,27,18,3916,37200
+BMW,1 Series,premium unleaded (required),300,6,MANUAL,rear wheel drive,2,Compact,Coupe,28,20,3916,39600
+BMW,1 Series,premium unleaded (required),230,6,MANUAL,rear wheel drive,2,Compact,Coupe,28,19,3916,31500
+BMW,1 Series,premium unleaded (required),300,6,MANUAL,rear wheel drive,2,Compact,Convertible,28,19,3916,44400
+BMW,1 Series,premium unleaded (required),230,6,MANUAL,rear wheel drive,2,Compact,Convertible,28,19,3916,37200
+BMW,1 Series,premium unleaded (required),230,6,MANUAL,rear wheel drive,2,Compact,Coupe,28,19,3916,31500
+BMW,1 Series,premium unleaded (required),320,6,MANUAL,rear wheel drive,2,Compact,Convertible,25,18,3916,48250
+BMW,1 Series,premium unleaded (required),320,6,MANUAL,rear wheel drive,2,Compact,Coupe,28,20,3916,43550
+Audi,100,regular unleaded,172,6,MANUAL,front wheel drive,4,Midsize,Sedan,24,17,3105,2000
+Audi,100,regular unleaded,172,6,MANUAL,front wheel drive,4,Midsize,Sedan,24,17,3105,2000
+Audi,100,regular unleaded,172,6,AUTOMATIC,all wheel drive,4,Midsize,Wagon,20,16,3105,2000
+Audi,100,regular unleaded,172,6,MANUAL,front wheel drive,4,Midsize,Sedan,24,17,3105,2000
+Audi,100,regular unleaded,172,6,MANUAL,all wheel drive,4,Midsize,Sedan,21,16,3105,2000
+Audi,100,regular unleaded,172,6,MANUAL,front wheel drive,4,Midsize,Sedan,24,17,3105,2000
+Audi,100,regular unleaded,172,6,AUTOMATIC,all wheel drive,4,Midsize,Wagon,20,16,3105,2000
+Audi,100,regular unleaded,172,6,MANUAL,front wheel drive,4,Midsize,Sedan,24,17,3105,2000
+Audi,100,regular unleaded,172,6,MANUAL,front wheel drive,4,Midsize,Sedan,24,17,3105,2000
+Audi,100,regular unleaded,172,6,MANUAL,all wheel drive,4,Midsize,Sedan,21,16,3105,2000
+Audi,100,regular unleaded,172,6,AUTOMATIC,front wheel drive,4,Midsize,Wagon,21,16,3105,2000
+Audi,100,regular unleaded,172,6,MANUAL,all wheel drive,4,Midsize,Sedan,22,16,3105,2000
+Audi,100,regular unleaded,172,6,MANUAL,front wheel drive,4,Midsize,Sedan,22,17,3105,2000
+Audi,100,regular unleaded,172,6,AUTOMATIC,front wheel drive,4,Midsize,Sedan,22,16,3105,2000
+Audi,100,regular unleaded,172,6,AUTOMATIC,all wheel drive,4,Midsize,Wagon,21,16,3105,2000
+FIAT,124 Spider,premium unleaded (recommended),160,4,MANUAL,rear wheel drive,2,Compact,Convertible,35,26,819,27495
+FIAT,124 Spider,premium unleaded (recommended),160,4,MANUAL,rear wheel drive,2,Compact,Convertible,35,26,819,24995
+FIAT,124 Spider,premium unleaded (recommended),160,4,MANUAL,rear wheel drive,2,Compact,Convertible,35,26,819,28195
+Mercedes-Benz,190-Class,regular unleaded,130,4,MANUAL,rear wheel drive,4,Compact,Sedan,26,18,617,2000
+Mercedes-Benz,190-Class,regular unleaded,158,6,MANUAL,rear wheel drive,4,Compact,Sedan,25,17,617,2000
+Mercedes-Benz,190-Class,regular unleaded,158,6,MANUAL,rear wheel drive,4,Compact,Sedan,25,17,617,2000
+Mercedes-Benz,190-Class,regular unleaded,130,4,MANUAL,rear wheel drive,4,Compact,Sedan,26,18,617,2000
+Mercedes-Benz,190-Class,regular unleaded,130,4,MANUAL,rear wheel drive,4,Compact,Sedan,26,18,617,2000
+Mercedes-Benz,190-Class,regular unleaded,158,6,MANUAL,rear wheel drive,4,Compact,Sedan,25,17,617,2000
+BMW,2 Series,premium unleaded (required),240,4,AUTOMATIC,rear wheel drive,2,Compact,Coupe,35,23,3916,32850
+BMW,2 Series,premium unleaded (required),240,4,AUTOMATIC,rear wheel drive,2,Compact,Convertible,34,23,3916,38650
+BMW,2 Series,premium unleaded (required),320,6,AUTOMATIC,rear wheel drive,2,Compact,Convertible,31,20,3916,48750
+BMW,2 Series,premium unleaded (required),240,4,AUTOMATIC,all wheel drive,2,Compact,Coupe,35,23,3916,34850
+BMW,2 Series,premium unleaded (required),240,4,AUTOMATIC,all wheel drive,2,Compact,Convertible,34,22,3916,40650
+BMW,2 Series,premium unleaded (required),320,6,AUTOMATIC,rear wheel drive,2,Compact,Coupe,31,20,3916,44150
+BMW,2 Series,premium unleaded (required),240,4,MANUAL,rear wheel drive,2,Compact,Coupe,34,22,3916,32850
+BMW,2 Series,premium unleaded (required),320,6,AUTOMATIC,all wheel drive,2,Compact,Coupe,30,20,3916,46150
+BMW,2 Series,premium unleaded (required),320,6,AUTOMATIC,rear wheel drive,2,Compact,Convertible,30,20,3916,50750
+BMW,2 Series,premium unleaded (recommended),335,6,AUTOMATIC,all wheel drive,2,Compact,Coupe,31,21,3916,46450
+BMW,2 Series,premium unleaded (recommended),335,6,AUTOMATIC,rear wheel drive,2,Compact,Convertible,32,21,3916,49050
+BMW,2 Series,premium unleaded (recommended),335,6,AUTOMATIC,all wheel drive,2,Compact,Convertible,32,21,3916,51050
+BMW,2 Series,premium unleaded (recommended),335,6,AUTOMATIC,rear wheel drive,2,Compact,Coupe,32,21,3916,44450
+BMW,2 Series,premium unleaded (recommended),248,4,AUTOMATIC,rear wheel drive,2,Compact,Convertible,34,23,3916,38950
+BMW,2 Series,premium unleaded (recommended),248,4,AUTOMATIC,rear wheel drive,2,Compact,Coupe,35,24,3916,33150
+BMW,2 Series,premium unleaded (recommended),248,4,AUTOMATIC,all wheel drive,2,Compact,Coupe,33,24,3916,35150
+BMW,2 Series,premium unleaded (recommended),248,4,AUTOMATIC,all wheel drive,2,Compact,Convertible,33,23,3916,40950
+Audi,200,regular unleaded,162,5,AUTOMATIC,front wheel drive,4,Midsize,Sedan,20,16,3105,2000
+Audi,200,regular unleaded,162,5,MANUAL,all wheel drive,4,Midsize,Wagon,22,15,3105,2000

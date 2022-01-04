@@ -1,0 +1,190 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.wrapper{
+    width: 1170px;
+    margin: auto;
+}
+
+header{
+    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url("https://www.import.io/wp-content/uploads/2019/09/data-analysis-blog.jpg");
+    height: 100vh;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+}
+
+.nav-area{
+    float: right;
+    list-style: none;
+    margin-top: 30px;
+}
+
+.nav-area li{
+    display: inline-block;
+}
+
+.nav-area li a{
+    color: #fff;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family: poppins;
+    font-size: 16px;
+}
+
+.nav-area li a:hover{
+    background: #fff;
+    color: #333;
+}
+
+.nav-area li a::slotted{
+    color: coral;
+}
+
+.nav-area .current{
+    color: #333;
+    background-color: #fff;
+}
+.logo img
+{
+    width: 100px;
+    float: left;
+    height: auto;
+    border-radius: 50%;
+}
+
+.welcome-text{
+    position: absolute;
+    width: 600px;
+    height: 300px;
+    margin: 20% 30%;
+   text-align: center; 
+}
+.welcome-text h1{
+    text-align: center;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 60px;
+}
+
+.welcome-text a{
+    border: 1px solid #fff;
+    padding: 10px 25px;
+    text-decoration: none;
+    text-transform: uppercase;
+    margin-top: 20px;
+    display: inline-block;
+    font-size: 14px;
+    color: #fff;
+}
+
+.welcome-text a:hover{
+    background: #fff;
+    color: #333; 
+}
+
+.data_upload{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    opacity: 0.8;
+    margin: auto;
+}
+
+#file{
+    margin: auto;
+}
+
+.text{
+
+    color:mistyrose
+}
+
+.submit{
+    margin-top: 45%;
+    font-size: 13px;
+    font-weight: bold;
+    margin-left: -85%;
+    background-color: white;
+    border-radius: 5px;
+    width: 4em;
+}
+
+.data_upload .submit:hover{
+    background-color:darkseagreen;
+    color: #333;
+}
+
+.file-upload-filename{
+    font-weight: 2px;
+    color: #fff;
+}
+
+.message{
+    width: fit-content;
+    font-weight: bold;
+    text-align: center;
+    justify-content: center;
+    color:red;
+    margin-top: 0%;
+}
+
+.stored_data{
+    color: #fff;
+    font-size: medium;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top:-320px;
+    bottom: 0;
+    left: -590px;
+    right: 0;
+    
+    margin: auto;
+}
+
+.compute{
+    color: bisque;
+    line-height: 250px;
+    text-align: center;
+    justify-content: center;
+    margin-top: 0%;
+}
+
+.plot{
+    color: bisque;
+    line-height: 45px;
+    margin-left: 19%;
+    margin-top: -1%;
+    border-radius: 2px;
+}
+
+.result_value
+{
+    color: lightgoldenrodyellow;
+    width: 120px;
+    height: 20px;
+    font-style: italic;
+    font-size: 35px;
+    font-weight: bolder;
+    margin-left: 15%;
+    margin-top: -125px;
+}
+
+.submit1{
+    margin-top: 45%;
+    font-size: 13px;
+    font-weight: bold;
+    margin-left: -85%;
+    background-color: white;
+    border-radius: 5px;
+    width: 4em;
+}
