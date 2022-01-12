@@ -49,6 +49,6 @@ Insights:
 1. Home Page
 ![alt_text](https://github.com/tharakmaddineni17/Data-Source-Insights/blob/main/Home.png)
 2. Data Page
-![alt_text](https://github.com/tharakmaddineni17/Data-Source-Insights/blob/main/Data.png)
+![alt_text](https://github.com/tharakmaddineni17/Data-Source-Insights/blob/main/Data_Page.png)
 3. Plot Page
 ![alt_text](https://github.com/tharakmaddineni17/Data-Source-Insights/blob/main/Plot.png)
