@@ -366,7 +366,7 @@ class PostGreSQL:
             data.append(columns_data)
         
             # query to fetch records of limit 25 from given tablename
-            data_query = "select * from %s limit 25;" %(tablename)
+            data_query = "select * from %s;" %(tablename)
 
             # Cursor executing data_query
             cursor.execute(data_query)
