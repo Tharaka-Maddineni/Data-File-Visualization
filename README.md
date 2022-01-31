@@ -45,7 +45,7 @@ Insights:
 - psycopg2
 
 
-## What the app looks like
+## What the application service looks like
 1. Home Page
 ![alt_text](https://github.com/tharakmaddineni17/Data-Source-Insights/blob/main/Home.png)
 2. Data Page
