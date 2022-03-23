@@ -1,9 +1,9 @@
 # Visualize-CSV
-Visualize-CSV is a web application where users can get insights of any .csv extension data file regardless of file structure. Also, userc can upload any new data source (only .csv extension files).
+Visualize-CSV is a web application where users can get insights of any .csv extension data file regardless of file structure. Also, users can upload any data source (only .csv extension files as of now).
 
 Insights: 
-          1. max/min/sum operation of particular column and
-          2. can plot graph between any 2 columns based on selection.
+          1. Computation (max/min/sum operation) of particular column and
+          2. Plotting graph between any 2 columns based on user selection.
 
 
 ## How to run the app.
